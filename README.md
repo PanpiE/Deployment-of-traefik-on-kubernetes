@@ -1,6 +1,6 @@
 # Deployment Of Traefik on Docker
 
-<p>This project deploy docker and traefik containers:</p>
+<p>This project have to deploy docker and traefik containers with this different tasks:</p>
 <li>Deploy traefik as a reverse proxy.</li>
 <li>2 "containous/whoami" containers are deployed</li>
 <li>The containers come to register with traefik</li>
